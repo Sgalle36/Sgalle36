@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub! 🤓
 
 <!--
 **Sgalle36/Sgalle36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/stephanie-gallegos-33719ba9/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
