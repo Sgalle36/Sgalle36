@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=db0edd&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Stephanie+Gallegos;+Welcome+to+My+Profile!;Junior+software+developer;Noob;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=db0edd&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Stephanie+Gallegos;+Welcome+to+My+Profile!;Junior+software+developer;Loves+learning+new+things+;)](https://git.io/typing-svg)
   
   <div id="banner">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
